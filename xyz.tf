@@ -1,1 +1,3 @@
-testing is not easy
+terraform {
+  
+}
